@@ -22,3 +22,27 @@ C:\Users\ABDULLAH COMPUTERS\Desktop\WeightBridgeSystem\Source Code\WeightBridgeS
 C:\Users\ABDULLAH COMPUTERS\Desktop\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.csproj.CoreCompileInputs.cache
 C:\Users\ABDULLAH COMPUTERS\Desktop\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.exe
 C:\Users\ABDULLAH COMPUTERS\Desktop\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.pdb
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\bin\Release\WeightBridgeSystem.exe.config
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\bin\Release\WeightBridgeSystem.exe
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\bin\Release\WeightBridgeSystem.pdb
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.csproj.AssemblyReference.cache
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.AdminDashboard.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.DailyWeightment.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.DailyWeightmentReport.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.EditWeight.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.MachineCommunication.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.PartyList.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.PasswordDialog.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.ProductList.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.ReprintSlip.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.SecondWeight.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.FirstWeight.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.LoginForm.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.OperatorDashboard.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.PrintSlip.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Forms.ThirdWeight.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.Properties.Resources.resources
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.csproj.GenerateResource.cache
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.csproj.CoreCompileInputs.cache
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.exe
+D:\WeightBridgeSystem\Source Code\WeightBridgeSystem\obj\Release\WeightBridgeSystem.pdb
